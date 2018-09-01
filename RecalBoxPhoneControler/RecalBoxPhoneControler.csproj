@@ -10,8 +10,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\RecalBoxPhoneControler.Boostraper\RecalBoxPhoneControler.Boostraper.csproj" />
-    <ProjectReference Include="..\..\RecalBoxPhoneControler.Business.Interface\RecalBoxPhoneControler.Business.Interface.csproj" />
+    <ProjectReference Include="..\RecalBoxPhoneControler.Boostraper\RecalBoxPhoneControler.Boostraper.csproj" />
+    <ProjectReference Include="..\RecalBoxPhoneControler.Business.Interface\RecalBoxPhoneControler.Business.Interface.csproj" />
   </ItemGroup>
 
 </Project>
