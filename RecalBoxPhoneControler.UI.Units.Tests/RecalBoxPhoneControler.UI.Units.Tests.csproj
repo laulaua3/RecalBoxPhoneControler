@@ -59,10 +59,6 @@
       <Project>{901fceb3-f754-4d0a-b687-3468fd412cf7}</Project>
       <Name>RecalBoxPhoneControler.Business.Interface</Name>
     </ProjectReference>
-    <ProjectReference Include="..\RecalBoxPhoneControler\RecalBoxPhoneControler\RecalBoxPhoneControler.csproj">
-      <Project>{5be3f12d-ffed-452b-8fd8-cd4fa3ae1556}</Project>
-      <Name>RecalBoxPhoneControler</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
