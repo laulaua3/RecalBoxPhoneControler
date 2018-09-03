@@ -1,8 +1,8 @@
-## Project for have an controler in the phone for recalbox
+## Project for having a reallbox controller on your phone
 
 based on the api of Recalbox
 
-See détail.
+See dÃ©tail.
 
 https://github.com/recalbox/recalbox-api/blob/1.1.x/documentation/api
 
