@@ -1,4 +1,4 @@
-## Project for having a reallbox controller on your phone
+## Project for having a recalbox controller on your phone
 
 based on the api of Recalbox
 
